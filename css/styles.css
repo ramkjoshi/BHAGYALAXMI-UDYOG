@@ -13,3 +13,14 @@ img:{
 .brice:hover{background-color: #5FD068;}
 .govind:hover{background-color: #33425B}
 .sanju:hover{background-color:   #28475C}
+iframe{
+  height: 200px;
+  width: 200px;
+  position: relative;
+  left: 600px;
+  bottom: 180px;}
+.maps{
+    position: absolute;
+    top: 200px;
+    left: 300px;
+  }
